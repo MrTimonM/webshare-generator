@@ -44,6 +44,7 @@ python solver.py
 - Exercise moderation and avoid excessive usage
 - Selling or distributing this script is prohibited
 - Proxy will be saved in proxy_list.txt
+- DO NOT ADD threading
 
 ## Disclaimer
 This script is provided for educational purposes only. The author does not endorse or condone the use of this script for any illegal activities. The author will not be held responsible for any misuse of the script. Use it responsibly and ensure compliance with WebShare.io's terms of service and any applicable laws and regulations.
