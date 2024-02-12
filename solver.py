@@ -37,7 +37,7 @@ def register_and_get_token(captcha_key=None):
         if captcha_key is None:
             captcha_key, _ = solve_recaptcha_v2_invisible()  # If captcha_key is not provided, solve recaptcha to get it
         email = ''.join(random.choice(string.ascii_letters) for x in range(random.randint(10, 14))) + "@gmail.com"
-        password = f"Joker{random.randint(2000, 5000)}!"
+        password = f"heheH{random.randint(2000, 5000)}!"
         payload = {"email": email, "password": password, "tos_accepted": True, "recaptcha": captcha_key}
         response = session.post(url, json=payload)
         session.cookies = response.cookies
