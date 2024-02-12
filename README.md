@@ -49,3 +49,5 @@ python solver.py
 ## Disclaimer
 This script is provided for educational purposes only. The author does not endorse or condone the use of this script for any illegal activities. The author will not be held responsible for any misuse of the script. Use it responsibly and ensure compliance with WebShare.io's terms of service and any applicable laws and regulations.
 
+![](https://komarev.com/ghpvc/?username=MrTimonM)
+
